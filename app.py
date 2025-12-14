@@ -52,7 +52,7 @@ monthly_disbursement = [
 # -------------------------------------------------
 # TITLE
 # -------------------------------------------------
-st.title("Analytics")
+st.title("SME Analytics & Market Prediction")
 
 # =================================================
 # KPI ROW (ONE LINE)
